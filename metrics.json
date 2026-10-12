@@ -1,0 +1,21 @@
+{
+  "best_model": "Gradient Boosting",
+  "final_test_rmse": 13.46,
+  "comparison": [
+    {
+      "model": "Linear Regression",
+      "validation_rmse": 17.06,
+      "test_rmse": 16.31
+    },
+    {
+      "model": "Random Forest",
+      "validation_rmse": 12.15,
+      "test_rmse": 14.9
+    },
+    {
+      "model": "Gradient Boosting",
+      "validation_rmse": 11.72,
+      "test_rmse": 13.1
+    }
+  ]
+}
